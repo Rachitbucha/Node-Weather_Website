@@ -1,0 +1,45 @@
+body{
+    max-width: 650px;
+    margin:0 auto;
+    padding: 0 16px;
+
+}
+
+h1{
+    font-size: 64px;
+    margin-bottom: 16px;
+}
+
+.portrait{
+    width: 250px;
+    height: 250px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #888888;
+    color: white;
+    text-align: center;
+}
+
+header a{
+    color: #888888;
+    text-decoration: none;
+    margin-right: 16px; 
+}
+
+input{
+    border: 1px solid #cccccc;
+    padding: 8px;
+}
+
+button{
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 8px;
+}
